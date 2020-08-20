@@ -55,13 +55,13 @@ Linuxではファイルをまとめる「フォルダ」を「ディレクトリ
 
 それでは、作業ディレクトリを表示するために、ターミナルで以下のコマンドを入力してEnterキーを押してください。（以降はコマンド実行すると表記します）
 
-```
+```bash
 pwd
 ```
 
-おそらくターミナルには `/home/{username}/cloudshell_open/tutorial-linux-command-line-beginner` のような文字が表示されるはずです。（**{username}** はプレースホルダであなたのユーザー名が表示されます）
+おそらくターミナルには `/home/{username}/cloudshell_open/tutorial-linux-command-line-beginner` のような文字が表示されるはずです。（{username}はプレースホルダであなたのユーザー名が表示されます）
 
-この文字の **/** はLinuxでの **ディレクトリの区切り** を表しています。
+ここで「 **/** 」はLinuxでの **ディレクトリの区切り** を表しています。
 
 つまり、「home」ディレクトリ内の「{username}」ディレクトリ内の「cloudshell_open」ディレクトリ内の「tutorial-linux-command-beginner」ディレクトリが作業ディレクトリとなります。
 
