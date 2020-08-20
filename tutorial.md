@@ -65,7 +65,7 @@ pwd
 
 ここで「 **/** 」はLinuxでの **ディレクトリの区切り** を表しています。
 
-つまり、「home」ディレクトリ内の「{username}」ディレクトリ内の「cloudshell_open」ディレクトリ内の「tutorial-linux-command-beginner」ディレクトリが作業ディレクトリとなります。
+つまり、「home」ディレクトリの下の「{username}」ディレクトリの下の「cloudshell_open」ディレクトリの下の「tutorial-linux-command-beginner」ディレクトリが作業ディレクトリとなります。
 
 **[Next]** ボタンをクリックして次のステップへ進みます。
 
