@@ -9,7 +9,9 @@ Cloud Shellをはじめて使用する場合は、最初に[Cloud Shell & gcloud
 
 上記のチュートリアルが完了したら、[Linuxコマンドライン入門チュートリアル](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/hiroponz/tutorial-linux-command-line-beginner&cloudshell_tutorial=tutorial.md)を行ってください。
 
-**注意:** 以前にチュートリアルを実施したことがある場合は、ターミナルに以下のようなメッセージが表示されます。その場合は、「`2`」を入力してからEnterキーを押してください。
+上記のリンクをクリックすると「Open in Cloud Shell」というダイアログが表示されるので、「Confirm」をクリックしてチュートリアルを開始してください。
+
+**注意:** 以前に同じチュートリアルを実施したことがある場合は、ターミナルに以下のようなメッセージが表示されます。その場合は、「`2`」を入力してからEnterキーを押してください。
 
 ```
 2020/08/20 06:16:10   You have already cloned this repo into directory /home/username/cloudshell_open/cloud-shell-tutorial. Would you like to:
