@@ -59,7 +59,9 @@ Linuxではファイルをまとめる「フォルダ」を「ディレクトリ
 pwd
 ```
 
-おそらくターミナルには `/home/{username}/cloudshell_open/tutorial-linux-command-line-beginner` のような文字が表示されるはずです。（{username}はプレースホルダであなたのユーザー名が表示されます）
+**ヒント**: <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> をクリックすると、ターミナルにコードブロックの内容をコピーできます。
+
+おそらくターミナルには「/home/{username}/cloudshell_open/tutorial-linux-command-line-beginner」のような文字が表示されるはずです。（{username}はプレースホルダであなたのユーザー名が表示されます）
 
 ここで「 **/** 」はLinuxでの **ディレクトリの区切り** を表しています。
 
