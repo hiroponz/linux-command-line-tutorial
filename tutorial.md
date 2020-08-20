@@ -61,11 +61,11 @@ pwd
 
 **ヒント**: コードブロック内の <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> をクリックすると、ターミナルにコードブロックの内容をコピーできます。
 
-おそらくターミナルには「/home/{username}/cloudshell_open/tutorial-linux-command-line-beginner」のような文字が表示されるはずです。（{username}はプレースホルダであなたのユーザー名が表示されます）
+おそらくターミナルには「/home/{username}/cloudshell_open/linux-command-line-tutorial」のような文字が表示されるはずです。（{username}はプレースホルダであなたのユーザー名が表示されます）
 
 ここで「 **/** 」はLinuxでの **ディレクトリの区切り** を表しています。
 
-つまり、「home」ディレクトリの下の「{username}」ディレクトリの下の「cloudshell_open」ディレクトリの下の「tutorial-linux-command-line-beginner」ディレクトリが作業ディレクトリとなります。
+つまり、「home」ディレクトリの下の「{username}」ディレクトリの下の「cloudshell_open」ディレクトリの下の「linux-command-line-tutorial」ディレクトリが作業ディレクトリとなります。
 
 **[Next]** ボタンをクリックして次のステップへ進みます。
 
@@ -89,13 +89,13 @@ cd ..
 
 現在の作業ディレクトリからの、相対的なディレクトリやファイルの位置のことを **相対パス** を呼びます。
 
-作業ディレクトリ内の「tutorial-linux-command-line-beginner」ディレクトリに移動するには、次のコマンドを実行してください。
+作業ディレクトリ内の「linux-command-line-tutorial」ディレクトリに移動するには、次のコマンドを実行してください。
 
 ```bash
-cd tutorial-linux-command-line-beginner
+cd linux-command-line-tutorial
 ```
 
-**ヒント**: ディレクトリ名の先頭の一部を入力したあとに **TAB** キーを押すと残りのディレクトリ名が自動的に補完（入力）されます。「cd tu」と入力したあとに、TABキーを押してディレクトリ名が自動補完されることを試してください。
+**ヒント**: ディレクトリ名の先頭の一部を入力したあとに **TAB** キーを押すと残りのディレクトリ名が自動的に補完（入力）されます。「cd li」と入力したあとに、TABキーを押してディレクトリ名が自動補完されることを試してください。
 
 ### 絶対パスを指定してディレクトリを移動する
 
@@ -132,7 +132,7 @@ cd
 このステップを開始する前に、次のコマンドを実行して最初のディレクトリに戻りましょう。
 
 ```bash
-cd ~/cloudshell_open/tutorial-linux-command-line-beginner
+cd ~/cloudshell_open/linux-command-line-tutorial
 ```
 
 **ヒント**: 「 **~** 」は特別な記号で **ログインしているユーザーのホームディレクトリ** を表します。
