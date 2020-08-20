@@ -61,11 +61,11 @@ pwd
 
 **ヒント**: コードブロック内の <walkthrough-cloud-shell-icon></walkthrough-cloud-shell-icon> をクリックすると、ターミナルにコードブロックの内容をコピーできます。
 
-おそらくターミナルには「/home/{username}/cloudshell_open/tutorial-linux-command-linux-beginner」のような文字が表示されるはずです。（{username}はプレースホルダであなたのユーザー名が表示されます）
+おそらくターミナルには「/home/{username}/cloudshell_open/tutorial-linux-command-line-beginner」のような文字が表示されるはずです。（{username}はプレースホルダであなたのユーザー名が表示されます）
 
 ここで「 **/** 」はLinuxでの **ディレクトリの区切り** を表しています。
 
-つまり、「home」ディレクトリの下の「{username}」ディレクトリの下の「cloudshell_open」ディレクトリの下の「tutorial-linux-command-beginner」ディレクトリが作業ディレクトリとなります。
+つまり、「home」ディレクトリの下の「{username}」ディレクトリの下の「cloudshell_open」ディレクトリの下の「tutorial-linux-command-line-beginner」ディレクトリが作業ディレクトリとなります。
 
 **[Next]** ボタンをクリックして次のステップへ進みます。
 
@@ -124,3 +124,15 @@ cd
 ```
 
 **[Next]** ボタンをクリックして次のステップへ進みます。
+
+## ファイルとディレクトリの一覧を表示する
+
+### 最初のディレクトリに戻る
+
+このステップを開始する前に、次のコマンドを実行して最初のディレクトリに戻りましょう。
+
+```bash
+cd ~/cloudshell_open/tutorial-linux-command-line-beginner
+```
+
+**ヒント**: 「 **~** 」は特殊な記号で **ログインしているユーザーのホームディレクトリ** を表します。
