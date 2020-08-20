@@ -145,11 +145,9 @@ cd ~/cloudshell_open/linux-command-line-tutorial
 
 **[Next]** ボタンをクリックして次のステップへ進みます。
 
-## 以上で終わりです
+## おめでとうございます
 
 <walkthrough-conclusion-trophy></walkthrough-conclusion-trophy>
-
-Linuxコマンドのチュートリアルすべて完了しました。
 
 このチュートリアルでは、以下のLinuxコマンドの使い方を学習しました。
 
@@ -159,7 +157,7 @@ Linuxコマンドのチュートリアルすべて完了しました。
 - man
 - alias
 
-また、ターミナルで作業するために必要な以下の内容を学習しました。
+また、ターミナルで作業するのに必要な以下の知識を習得しました。
 
 - 作業ディレクトリ
 - ルートディレクトリ
