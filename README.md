@@ -7,17 +7,14 @@ Cloud Shellは[Google Cloud Platform](https://cloud.google.com/)のサービス�
 
 Cloud Shellをはじめて使用する場合は、最初に[Cloud Shell & gcloud入門チュートリアル](https://codelabs.developers.google.com/codelabs/cloud-shell-ja/#0)を行ってください。
 
-上記のチュートリアルが完了したら、[Linuxコマンドライン入門チュートリアル](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/hiroponz/tutorial-linux-command-line-beginner&cloudshell_tutorial=tutorial.md)を行ってください。
+上記のチュートリアルが完了したら、[Linuxコマンドライン入門チュートリアル](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/hiroponz/linux-command-line-tutorial&cloudshell_tutorial=tutorial.md)を行ってください。
 
 上記のリンクをクリックすると「Open in Cloud Shell」というダイアログが表示されるので、「Confirm」をクリックしてチュートリアルを開始してください。
 
-**注意:** 以前に同じチュートリアルを実施したことがある場合は、ターミナルに以下のようなメッセージが表示されます。その場合は、「`2`」を入力してからEnterキーを押してください。
+## トレーニングの受講要件の記入例
 
-```
-2020/08/20 06:16:10   You have already cloned this repo into directory /home/username/cloudshell_open/cloud-shell-tutorial. Would you like to:
-2020/08/20 06:16:10   [1] cd into that directory
-2020/08/20 06:16:10   [2] cd into that directory and `git pull`
-2020/08/20 06:16:10   [3] git clone a new copy
-2020/08/20 06:16:10
-2020/08/20 06:16:10   Enter your choice [default 1]:
-```
+- トレーニングを受講する前に次のチュートリアルを実施していただける方
+  - [Cloud Shell & gcloud入門チュートリアル](https://codelabs.developers.google.com/codelabs/cloud-shell-ja/#0) （所要時間: 7分）
+  - [Linuxコマンドライン入門チュートリアル](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/hiroponz/linux-command-line-tutorial&cloudshell_tutorial=tutorial.md) （所要時間: 30分）
+  - **注意**: チュートリアルを実施するにはGoogleアカウント（GmailまたはGoogle Apps）が必要です。チュートリアルは無料で実施できますが、クレジットカードの登録が必要となります。
+- トレーニングの受講環境の前提条件が揃っている方（個室、カメラOn、Google Meet・Google Cloud・トレーニング用のGitLabサーバにアクセスできることなど）
