@@ -17,4 +17,5 @@ Cloud Shellをはじめて使用する場合は、最初に[Cloud Shell & gcloud
   - [Cloud Shell & gcloud入門チュートリアル](https://codelabs.developers.google.com/codelabs/cloud-shell-ja/#0) （所要時間: 7分）
   - [Linuxコマンドライン入門チュートリアル](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/hiroponz/linux-command-line-tutorial&cloudshell_tutorial=tutorial.md) （所要時間: 30分）
   - **注意**: チュートリアルを実施するにはGoogleアカウント（GmailまたはGoogle Apps）が必要です。チュートリアルは無料で実施できますが、クレジットカードの登録が必要となります。
+  - **注意**: 2つ目のチュートリアルのリンクをクリックすると「Open in Cloud Shell」というダイアログが表示されるので、「Confirm」をクリックしてチュートリアルを開始してください。
 - トレーニングの受講環境の前提条件が揃っている方（個室、カメラOn、Google Meet・Google Cloud・トレーニング用のGitLabサーバにアクセスできることなど）
