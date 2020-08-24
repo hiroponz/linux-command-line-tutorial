@@ -13,7 +13,7 @@ Cloud Shellをはじめて使用する場合は、最初に[Cloud Shell & gcloud
 
 ## トレーニングの受講要件の記入例
 
-- トレーニングを受講する前に次のチュートリアルを実施していただける方
+- Linuxのコマンドラインについて基本的な知識のある方、またはトレーニングを受講する前に次の2つのチュートリアルを実施していただける方
   - [Cloud Shell & gcloud入門チュートリアル](https://codelabs.developers.google.com/codelabs/cloud-shell-ja/#0) （所要時間: 7分）
   - [Linuxコマンドライン入門チュートリアル](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/hiroponz/linux-command-line-tutorial&cloudshell_tutorial=tutorial.md) （所要時間: 30分）
   - **注意**: チュートリアルを実施するにはGoogleアカウント（GmailまたはGoogle Apps）が必要です。チュートリアルは無料で実施できますが、クレジットカードの登録が必要となります。
